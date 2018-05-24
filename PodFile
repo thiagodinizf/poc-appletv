@@ -1,0 +1,19 @@
+platform :tvos, '10.0'
+inhibit_all_warnings!
+use_frameworks!
+
+workspace 'MovieTV'
+
+def default_pods 
+    pod 'SwiftGen'
+    pod 'Reusable'
+    pod 'Kingfisher'
+    pod 'StatefulViewController'
+    pod 'SpringIndicator'
+    pod 'Moya'
+    pod 'Moya-ModelMapper'
+end
+
+target 'MovieTV' do
+    default_pods
+end

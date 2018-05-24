@@ -1,0 +1,190 @@
+{
+    "data": {
+        "code": "now_inicio",
+        "modules": [
+                    {
+                    "id": null,
+                    "title": null,
+                    "code": "Superdestacados",
+                    "type": "Highlight",
+                    "subType": "Editorial",
+                    "navigationScreen": null,
+                    "byUser": false,
+                    "contents": [
+                                 {
+                                 "id": 742524,
+                                 "title": "Mogli: O Menino Lobo",
+                                 "originalTitle": "The Jungle Book",
+                                 "description": "Mogli, um garoto criado por lobos em plena selva, foge das ameaças de um tigre e inicia uma jornada com a ajuda de uma pantera e de um urso.",
+                                 "descriptionLarge": "Mogli, um garoto criado por lobos em plena selva, foge das ameaças de um tigre e inicia uma jornada com a ajuda de uma pantera e de um urso.",
+                                 "images": {
+                                 "landscape": "https://image.tmdb.org/t/p/original/eIOTsGg9FCVrBc4r2nXaV61JF4F.jpg",
+                                 "portrait": "https://image.tmdb.org/t/p/original/vOipe2myi26UDwP978hsYOrnUWC.jpg",
+                                 "clipped": "http://testcvcdn8-a.akamaihd.net/HBO/PELICULAS/THEJUNGLEBOOK/EXPORTACION_WEB/STILLS/THEJUNGLEBOOK-STILL-01.jpg"
+                                 },
+                                 "providerName": "HBO",
+                                 "formatTypes": [
+                                                 "susc"
+                                                 ],
+                                 "type": "itemMovie"
+                                 },
+                                 {
+                                 "id": 562040,
+                                 "title": "Superbad - É Hoje",
+                                 "originalTitle": "Superbad",
+                                 "description": "",
+                                 "descriptionLarge": "Seth e Evan são amigos desde a infância. Estão prestes a terminar a escola e querem perder a virgindade. A oportunidade surge quando são convidados a uma festa. Mas só entram se levarem bebidas alcoolicas. Agora, vão viver as mais loucas aventuras!",
+                                 "images": {
+                                 "landscape": "https://image.tmdb.org/t/p/original/6KyVgjtjoZeXCoiuWGJBTZ97zMV.jpg",
+                                 "portrait": "https://image.tmdb.org/t/p/original/7RZWtDkf0mgrxvJNFj43YW2Ugi8.jpg",
+                                 "clipped": "http://testcvcdn4-a.akamaihd.net/PELICULAS/SUPERBAD/EXPORTACION_WEB/STILLS/SUPERBAD-STILL-01.jpg"
+                                 },
+                                 "providerName": "Clarovideo",
+                                 "formatTypes": [
+                                                 "susc"
+                                                 ],
+                                 "type": "itemMovie"
+                                 },
+                                 {
+                                 "id": 578548,
+                                 "title": "Capitão Phillips",
+                                 "originalTitle": "Captain Phillips",
+                                 "description": "",
+                                 "descriptionLarge": "O ganhador do Oscar® Tom Hanks interpreta o capitão de um barco de carga atacado por violentos piratas em águas africanas. Surpreenda-se com essa arrepiante história real.",
+                                 "images": {
+                                 "landscape": "https://image.tmdb.org/t/p/original/vsniZLsR7qt175WOvaqnr5r4AKc.jpg",
+                                 "portrait": "https://image.tmdb.org/t/p/original/AnMTMPTUzeWNbYxzp29WqYf1br1.jpg",
+                                 "clipped": "http://testcvcdn8-a.akamaihd.net/PELICULAS/CAPTAINPHILLIPS/EXPORTACION_WEB/STILLS/CAPTAINPHILLIPS-STILL-01.jpg"
+                                 },
+                                 "providerName": "Clarovideo",
+                                 "formatTypes": [
+                                                 "susc"
+                                                 ],
+                                 "type": "itemMovie"
+                                 },
+                                 {
+                                 "id": 723640,
+                                 "title": "Drive",
+                                 "originalTitle": "Drive",
+                                 "description": "",
+                                 "descriptionLarge": "Durante o dia, Driver trabalha em uma mecânica e é especialista em cenas de cinema. Durante algumas noites, esporadicamente, trabalhar como motorista para os criminosos. Mas essa vida dupla muda quando sua vizinha Irene aparece.",
+                                 "images": {
+                                 "landscape": "https://image.tmdb.org/t/p/original/ekLAySalu0CGoGogPWY0BG6uAul.jpg",
+                                 "portrait": "https://image.tmdb.org/t/p/original/nu7XIa67cXc2t7frXCE5voXUJcN.jpg",
+                                 "clipped": "http://testcvcdn8-a.akamaihd.net/PELICULAS/DRIVE/EXPORTACION_WEB/STILLS/DRIVE-STILL-01.jpg"
+                                 },
+                                 "providerName": "Clarovideo",
+                                 "formatTypes": [
+                                                 "susc"
+                                                 ],
+                                 "type": "itemMovie"
+                                 },
+                                 {
+                                 "id": 692296,
+                                 "title": "Taxi Driver",
+                                 "originalTitle": "Taxi Driver",
+                                 "description": "",
+                                 "descriptionLarge": "Pouco depois do final da Guerra do Vietnã, o ex-soldado Travis Bickle se transforma em taxista. Ele mergulha na duvidosa vida noturna de Nova Iorque e acaba tentando ajudar uma prostituta adolescente.",
+                                 "images": {
+                                 "landscape": "https://image.tmdb.org/t/p/original/wvPCaLl3mjSHMT4H8ssCjOf7dQ1.jpg",
+                                 "portrait": "https://image.tmdb.org/t/p/original/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+                                 "clipped": "http://testcvcdn8-a.akamaihd.net/PELICULAS/TAXIDRIVER/EXPORTACION_WEB/STILLS/TAXIDRIVER-STILL-01.jpg"
+                                 },
+                                 "providerName": "Clarovideo",
+                                 "formatTypes": [
+                                                 "susc"
+                                                 ],
+                                 "type": "itemMovie"
+                                 },
+                                 {
+                                 "id": 730663,
+                                 "title": "Jason Bourne",
+                                 "originalTitle": "Jason Bourne",
+                                 "description": "",
+                                 "descriptionLarge": "Matt Damon retorna ao seu papel mais emblemático de Jason Bourne por Paul Greengrass. Nesta ocasião, encontramos o ex-agente da CIA mais letal saindo das sombras para uma nova missão.",
+                                 "images": {
+                                 "landscape": "https://image.tmdb.org/t/p/original/AoT2YrJUJlg5vKE3iMOLvHlTd3m.jpg",
+                                 "portrait": "https://image.tmdb.org/t/p/original/lFSSLTlFozwpaGlO31OoUeirBgQ.jpg",
+                                 "clipped": "http://testcvcdn0-a.akamaihd.net/PELICULAS/JASONBOURNE/EXPORTACION_WEB/STILLS/JASONBOURNE-STILL-01.jpg"
+                                 },
+                                 "providerName": "Clarovideo",
+                                 "formatTypes": [
+                                                 "ppe",
+                                                 "download"
+                                                 ],
+                                 "type": "itemMovie"
+                                 },
+                                 {
+                                 "id": 718196,
+                                 "title": "Homens de Preto 3",
+                                 "originalTitle": "Men in Black 3",
+                                 "description": "",
+                                 "descriptionLarge": "Quando a vida de K e o destino do planeta são colocados em jogo, o agente J deverá viajar de volta no tempo para endireitar as coisas e salvar seu parceiro, a agência e o futuro da humanidade.",
+                                 "images": {
+                                 "landscape": "https://image.tmdb.org/t/p/original/bgslxHUmtCncOa9hOIDsVBarfyc.jpg",
+                                 "portrait": "https://image.tmdb.org/t/p/original/l9hrvXyGq19f6jPRZhSVRibTMwW.jpg",
+                                 "clipped": "http://testcvcdn0-a.akamaihd.net/PELICULAS/MENINBLACK3/EXPORTACION_WEB/STILLS/MENINBLACK3-STILL-01.jpg"
+                                 },
+                                 "providerName": "Clarovideo",
+                                 "formatTypes": [
+                                                 "susc"
+                                                 ],
+                                 "type": "itemMovie"
+                                 },{
+                                 "id": 718434,
+                                 "title": "O Profissional",
+                                 "originalTitle": "Professional, The",
+                                 "description": "",
+                                 "descriptionLarge": "Quando assassinam seus vizinhos ao lado, León um dos mais temidos assassinos de Nova York, fica responsável pela única sobrevivente da família: Matilda, uma menina de doze anos que não só busca proteção, mas também vingança.",
+                                 "images": {
+                                 "landscape": "https://image.tmdb.org/t/p/original/uRoDS6HDbJHeTnIQByJEd61a6EJ.jpg",
+                                 "portrait": "https://image.tmdb.org/t/p/original/81lywi93Smq1XAsCq4PblxOu4gh.jpg",
+                                 "clipped": "http://testcvcdn8-a.akamaihd.net/PELICULAS/PROFESSIONALTHE/EXPORTACION_WEB/STILLS/PROFESSIONALTHE-STILL-01.jpg"
+                                 },
+                                 "providerName": "Clarovideo",
+                                 "formatTypes": [
+                                                 "susc"
+                                                 ],
+                                 "type": "itemMovie"
+                                 },
+                                 {
+                                 "id": 528361,
+                                 "title": "Capitão América: O Primeiro Vingador",
+                                 "originalTitle": "Captain America: The First Avenger",
+                                 "description": "",
+                                 "descriptionLarge": "Segunda Guerra Mundial. Steve Rogers é rejeitado pelo serviço militar e recrutado pelo Sr. Erksine para um projeto que o transforma em uma arma humana. Quando os nazistas assassinam o médico, Rogers se torna um verdadeiro super-herói.",
+                                 "images": {
+                                 "landscape": "https://image.tmdb.org/t/p/original/pmZtj1FKvQqISS6iQbkiLg5TAsr.jpg",
+                                 "portrait": "https://image.tmdb.org/t/p/original/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg",
+                                 "clipped": "http://testcvcdn6-a.akamaihd.net/PELICULAS/CAPTAINAMERICATHEFIRSTAVENGER/EXPORTACION_WEB/STILLS/CAPTAINAMERICATHEFIRSTAVENGER-STILL-01.jpg"
+                                 },
+                                 "providerName": "Clarovideo",
+                                 "formatTypes": [
+                                                 "susc"
+                                                 ],
+                                 "type": "itemMovie"
+                                 },
+                                 {
+                                 "id": 535930,
+                                 "title": "Homem de Ferro",
+                                 "originalTitle": "Iron Man",
+                                 "description": "",
+                                 "descriptionLarge": "Depois de ser capturado por terroristas, o playboy milionário e gênio da engenharia, Tony Stark, decide criar uma armadura para combater o mal. Mas o verdadeiro inimigo está mais próximo do que ele imagina! Imperdível filme com Robert Downey Jr.",
+                                 "images": {
+                                 "landscape": "https://image.tmdb.org/t/p/original/8EgxSaVRZwcm3pWChyW4j7yPplq.jpg",
+                                 "portrait": "https://image.tmdb.org/t/p/original/848chlIWVT41VtAAgyh9bWymAYb.jpg",
+                                 "clipped": "http://testcvcdn2-a.akamaihd.net/PELICULAS/IRONMAN/EXPORTACION_WEB/STILLS/IRONMAN-STILL-01.jpg"
+                                 },
+                                 "providerName": "Clarovideo",
+                                 "formatTypes": [
+                                                 "susc"
+                                                 ],
+                                 "type": "itemMovie"
+                                 }
+                                 ]
+                    }
+                    ]
+    },
+    "requestId": "7c85fc2a-5ebf-11e8-a376-e1c5ac65c7ac"
+}
+
